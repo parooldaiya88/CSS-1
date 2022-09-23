@@ -1,0 +1,36 @@
+CSS
+
+Cascading Style Sheets
+
+---
+
+Geschichte:
+Erfunden von Håkon Wium Lie im October 1994.
+
+Documentation:
+https://www.w3.org/Style/CSS20/history.html
+
+Håkon Wium Lie conference:
+https://youtu.be/LeC26IO1WV8
+
+
+---
+
+What is CSS?
+
+- CSS stands for Cascading Style Sheets
+- CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once
+- External stylesheets are stored in CSS files
+
+---
+
+IMPORTANT
+
+CSS Validator:
+https://jigsaw.w3.org/css-validator/#validate_by_input
+
+Documentation:
+https://www.w3schools.com/Css/css_intro.asp
+https://www.w3schools.com/css/
+https://developer.mozilla.org/de/docs/Web/CSS

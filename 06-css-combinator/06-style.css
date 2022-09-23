@@ -1,0 +1,67 @@
+/* Grouping selector: */
+h2,
+h3,
+h4 {
+  color: green;
+}
+
+/* Combinator: */
+div p {
+  color: orange;
+}
+
+/* Child combinator: */
+main > p {
+  color: brown;
+}
+
+/* Adjacent sibling combinator: */
+h5 + p {
+  color: darkcyan;
+}
+
+/* ------------------- */
+
+/* Specificity: */
+#dark-heading {
+  color: darkblue;
+}
+
+.bright-heading {
+  color: aquamarine;
+}
+
+h1 {
+  color: red;
+}
+
+/* Inheritence: */
+body {
+  font-family: sans-serif;
+}
+
+/* DRY: */
+/* Don't repeat yourself */
+/* Bad example: */
+/* 
+h1 {
+  color: red;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: red;
+} 
+*/
+
+/* Good example: */
+/* 
+h1,
+h2,
+h3 {
+  color: red;
+} 
+*/

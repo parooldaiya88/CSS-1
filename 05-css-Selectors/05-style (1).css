@@ -1,0 +1,52 @@
+
+/* Tag Selector: */
+h1 {
+  color: green;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  font-size: 18px;
+}
+
+/* ID Selector: */
+/* 
+ID's can be declare with an "id" attribute in the html tag
+in the css we can access id's with hashtag "#",
+then the name of the id
+ID names always with small letters, you can separate word with a dash
+ID's can only be used once
+every html element can have only one ID
+*/
+#secondary-heading {
+  color: blueviolet;
+}
+
+#purple-text {
+  color: purple;
+}
+
+/* CLASS Selector: */
+/* 
+Class can be declared with the "class" attribute in the html elements.
+In the css we cann access classes with a dot "."
+Then the name of the class
+classes can be reused as many times as we need
+every html elements can have mutiple classes
+To give one element multiple classes, 
+separate class names with a white space in the class attribute.
+*/
+.featured-headings {
+  color: aqua;
+}
+
+.feat-text {
+  color: aquamarine;
+}
+
+.bold-text {
+    font-weight: bold;
+}
